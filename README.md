@@ -1,2 +1,3 @@
 # my-first-project
-This is my first project on Github
+## My project is about Financial Market News Sentiment Analysis.
+## this gives information about Financial issues in the Market
